@@ -14,4 +14,4 @@
    <img align= "center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br/>
 
-Atualmente estudando Front-End 📚
+"Assim, seja comendo, seja bebendo, seja fazendo qualquer outra coisa, fazei tudo para a glória de Deus." 1Co 10:31 ✝️
